@@ -12,7 +12,7 @@ This project allows users to **add, view, search, and delete notes**, saved in a
 - **Delete Note** – Remove note by title  
 - **Simple file handling** (notes saved in notes.txt)          
 
----
+---  
 
 ## 🛠️ Technologies Used
 - Python
