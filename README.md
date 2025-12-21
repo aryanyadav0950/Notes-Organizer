@@ -1,7 +1,7 @@
 # 🗒️ Notes Organizer (Python)
 
 A simple **Notes Organizer** created using Python.  
-This project allows users to **add, view, search, and delete notes**, saved in a text file.
+This project allows users to **add, view, search, and delete notes**, saved in a text file. 
 
 ---
 
