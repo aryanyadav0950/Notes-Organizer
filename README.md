@@ -4,7 +4,7 @@ A simple **Notes Organizer** created using Python.
 This project allows users to **add, view, search, and delete notes**, saved in a text file. 
    
 ---       
-         
+          
 ## 🚀 Features   
 - **Add Note** – Add a note with title & content 
 - **View Notes** – Display all saved notes     
