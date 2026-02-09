@@ -17,7 +17,7 @@ This project allows users to **add, view, search, and delete notes**, saved in a
 ## 🛠️ Technologies Used
 - Python
 - File Handling
-
+ 
 ---
 
 ## 📂 Files Included
