@@ -7,7 +7,7 @@ This project allows users to **add, view, search, and delete notes**, saved in a
             
 ## 🚀 Features     
 - **Add Note** – Add a note with title & content 
-- **View Notes** – Display all saved notes      
+- **View Notes** – Display all saved notes       
 - **Search Note** – Find note by title   
 - **Delete Note** – Remove note by title  
 - **Simple file handling** (notes saved in notes.txt)          
