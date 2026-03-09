@@ -1,6 +1,6 @@
 # Notes Organizer 
 
-import os
+import os 
 
 FILE_NAME = "notes.txt" 
 
@@ -120,4 +120,5 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
 
