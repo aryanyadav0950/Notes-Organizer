@@ -2,7 +2,7 @@
 
 import os
 
-FILE_NAME = "notes.txt"
+FILE_NAME = "notes.txt" 
 
 
 def add_note():
@@ -120,3 +120,4 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
