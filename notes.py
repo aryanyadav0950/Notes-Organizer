@@ -6,7 +6,7 @@ FILE_NAME = "notes.txt"
 
 
 def add_note():
-    print("\n--- Add Note ---")
+    print("\n--- Add Note ---") 
     title = input("Enter note title: ")
     content = input("Enter note content: ")  
 
@@ -120,6 +120,7 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
 
 
 
