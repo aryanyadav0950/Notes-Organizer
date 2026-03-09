@@ -8,7 +8,7 @@ FILE_NAME = "notes.txt"
 def add_note():
     print("\n--- Add Note ---")
     title = input("Enter note title: ")
-    content = input("Enter note content: ")
+    content = input("Enter note content: ") 
 
     with open(FILE_NAME, "a") as f:
         f.write(f"{title}|{content}\n")
@@ -120,5 +120,6 @@ def main_menu():
 
 if __name__ == "__main__":
     main_menu()
+
 
 
